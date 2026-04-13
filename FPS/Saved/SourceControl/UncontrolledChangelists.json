@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Game-Engine-101/FPS/Content/Blueprints/BPA/BPA_WeaponBase.uasset",
+				"E:/Game-Engine-101/FPS/Content/Animations/ABP_HeroFPP.uasset",
+				"E:/Game-Engine-101/FPS/Content/Blueprints/BPA/BPA_AR.uasset",
+				"E:/Game-Engine-101/FPS/Content/Blueprints/BPA/BPA_Pistol.uasset",
+				"E:/Game-Engine-101/FPS/Content/Blueprints/BP_Player.uasset",
 				"D:/UE Practice/FPS/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/UE Practice/FPS/Content/Maps/TestLevel.umap",
 				"D:/UE Practice/FPS/Content/Blueprints/BP_Player.uasset",
