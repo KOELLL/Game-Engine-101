@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE Practice/FPS/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UE Practice/FPS/Content/Maps/TestLevel.umap",
+				"D:/UE Practice/FPS/Content/Blueprints/BP_Player.uasset",
+				"D:/UE Practice/FPS/Content/Misc/Input/IA_Movement.uasset",
+				"D:/UE Practice/FPS/Content/Misc/Input/IMC_FPS.uasset",
+				"D:/UE Practice/FPS/Content/Data/GM_InGame.uasset",
+				"D:/UE Practice/FPS/Content/Data/PC_InGame.uasset",
+				"D:/UE Practice/FPS/Content/Misc/Input/IA_Camera.uasset",
+				"D:/UE Practice/FPS/Content/Characters/HeroFPP/HeroFPP.uasset",
+				"D:/UE Practice/FPS/Content/Data/Enums/E_WeaponTypes.uasset",
+				"D:/UE Practice/FPS/Content/Blueprints/BPA/BP_WeaponBase.uasset",
+				"D:/UE Practice/FPS/Content/Blueprints/BPA/BPA_WeaponBase.uasset",
+				"D:/UE Practice/FPS/Content/Data/Structs/F_WeaponInfo.uasset",
+				"D:/UE Practice/FPS/Content/Blueprints/BPA/BPA_Pistol.uasset",
+				"D:/UE Practice/FPS/Content/Characters/HeroFPP/HeroFPP_Skeleton.uasset",
+				"D:/UE Practice/FPS/Content/Blueprints/BPA/BPA_AR.uasset",
+				"D:/UE Practice/FPS/Content/Misc/Input/IA_Jump.uasset",
+				"D:/UE Practice/FPS/Content/Animations/ABP_HeroFPP.uasset",
+				"D:/UE Practice/FPS/Content/Misc/Input/IA_Fire.uasset",
+				"D:/UE Practice/FPS/Content/Misc/Input/IA_Reload.uasset"
+			]
+		}
+	]
+}
